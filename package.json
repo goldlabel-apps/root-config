@@ -1,6 +1,6 @@
 {
   "name": "@listingslab/root-config",
-  "version": "19.7.2",
+  "version": "19.7.3",
   "scripts": {
     "start": "webpack serve --port 9000 --env isLocal",
     "lint": "eslint src --ext js,ts,tsx",
